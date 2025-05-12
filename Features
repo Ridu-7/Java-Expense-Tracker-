@@ -1,0 +1,4 @@
+Add expenses with category, description, and amount
+View all saved expenses in a scrollable list
+Data stored using SQLite (embedded DB)
+ Simple and clean Swing GUI
